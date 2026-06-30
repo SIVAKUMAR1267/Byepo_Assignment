@@ -55,7 +55,6 @@ Create a `.env` file in the `frontend/` directory:
 ```env
 PORT=3000
 
-JWT_SECRET=your_jwt_signing_key
 SUPER_ADMIN_EMAIL=superadmin@example.com
 SUPER_ADMIN_PASSWORD=your_secure_password
 
